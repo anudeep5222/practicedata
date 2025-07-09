@@ -1,4 +1,4 @@
-package collections;
+package myCollections;
 import java.util.*;
 public class reverseArrayList {
 
